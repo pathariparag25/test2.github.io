@@ -1,4 +1,3 @@
-import "style.css";
 
 // ---- Chicken imagery (Pexels, license-free) ----
 const IMG_HERO =
